@@ -48,15 +48,14 @@
 <div class="center body-width"><h1> The Lost Synagogues of Detroit</h1></div>
 <div class="center body-width" id="map" style="height: 400px;"></div>
 <script>
-  var map = L.map('map').setView([42.387, -83.109],11)
-
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{
-    maxZoom: 19,
-    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-  }).addTo(map);
+	//https://leafletjs.com/examples/layers-control/example.html
+	// this is broken but i don't feel like fixing it rn fix later
 
 	var shulGroup = [];
 	var institutionGroup = [];
+
+	var shuls = L.layerGroup(shulGroup);
+	var institutions = L.layerGroup(institutionGroup);
 
 	// read data from csv
 	$.get('data.csv', function(csvString){
@@ -72,7 +71,7 @@
 			var marker = L.marker([row.latitude, row.longitude],{
 				opacity: 1
 			}).bindPopup(popupContent);
-			marker.addTo(map);
+			//marker.addTo(map);
 
 			if(row.Type == "shul") {
 				shulGroup.push(marker);
@@ -80,8 +79,33 @@
 				institutionGroup.push(marker);
 			}
 		}
-
 	});
+
+
+
+	console.log(shulGroup);
+
+
+
+	var overlayMaps = {
+		"Shuls": shuls,
+		"Institutions": institutions
+	};
+
+	//var map = L.map('map').setView([42.387, -83.109],11)
+	var map = L.map('map',{
+		center: [42.387, -83.109],
+		zoom: 11,
+		layers: [shuls, institutions]
+	})
+
+	L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{
+		maxZoom: 19,
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+	}).addTo(map);
+
+	var layerControl = L.control.layers(overlayMaps).addTo(map);
+
 </script>
 
 
