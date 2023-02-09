@@ -8,6 +8,10 @@ Down the street was a church that curiously had Hebrew letters on it and an insc
 
 In January 2023, I wanted to learn more about data visualization, and Leaflet.js was a library that was frequently cited in job descriptions. Since I already had an interest in this website, I decided to remake the (static) website as an interactive Leaflet.js app.
 
+# Notes
+
+Due to CORS request policies, you need to run this program via a local server (such as MAMP) in order to test it. See more: https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors/CORSRequestNotHttp
+
 # Methodology
 
 ## Scraping the data
