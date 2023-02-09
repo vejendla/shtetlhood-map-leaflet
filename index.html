@@ -42,8 +42,6 @@
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
 
-  var marker = L.marker([42.38304161437187, -83.07501701387442]).addTo(map).bindPopup("<b>Hello world!</b><br>I am a popup.");
-
 	// read data from csv
 	$.get('data.csv', function(csvString){
 		// use PapaParse to convert string to array of objects
