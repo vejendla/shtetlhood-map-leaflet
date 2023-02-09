@@ -18,7 +18,7 @@
 		html, body {
 			height: 100%;
 			margin: 0;
-			background-color: grey;
+			background-color: #f8edba;
 			font-family: Arial, sans-serif;
 		}
 		.leaflet-container {
@@ -55,6 +55,9 @@
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
 
+	var shulGroup = [];
+	var institutionGroup = [];
+
 	// read data from csv
 	$.get('data.csv', function(csvString){
 		// use PapaParse to convert string to array of objects
@@ -70,6 +73,12 @@
 				opacity: 1
 			}).bindPopup(popupContent);
 			marker.addTo(map);
+
+			if(row.Type == "shul") {
+				shulGroup.push(marker);
+			} else {
+				institutionGroup.push(marker);
+			}
 		}
 
 	});

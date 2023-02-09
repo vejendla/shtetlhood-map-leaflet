@@ -1,60 +1,60 @@
-,Page_title,Page_link,Page_name,Page_address,Page_address_formatted,latitude,longitude
-1,1ST DETROIT SERVICE,https://www.shtetlhood.com/1st_Jewish_Service.htm,1st Jewish Services in Detroit, St. Antoine at Congress,,42.33301994,-83.03926179
-2,1ST HEBREW DELRAY,https://www.shtetlhood.com/Delray_Hungarian.htm,First Hebrew Congregation of Delray,8124 Burdeno,"8124 Burdeno, Detroit, MI",42.29249747,-83.11541184
-3, AARON ISRAEL [STOLINER],https://www.shtetlhood.com/Aaron_Israel.htm,Aaron Israel,2567 Elmhurst,"2567 Elmhurst, Detroit, MI",42.38474337,-83.11547837
-4, ADAS YESHURN [TYLER] ,https://www.shtetlhood.com/Adas_Yeshuan.htm,Memories of Adas Yeshuan,2625 Tyler,"2625 Tyler, Detroit, MI",42.39136602,-83.1214533
-5, ADAT SHALOM,https://www.shtetlhood.com/Adat_Shalom_star.htm,Adat Shalom,Curtis just west of Livernois,"Curtis just west of Livernois, Detroit, MI",42.42426007,-83.14316196
-6, AHAVATH ZION,https://www.shtetlhood.com/Ahavath_Zion.htm,Ahavath Zion,Holbrook at Brush,"Holbrook at Brush, Detroit, MI",42.38302716,-83.07502803
-7, AMARATH TEMPLE,https://www.shtetlhood.com/Amarath_Temple.htm,Amarath Temple,McDougall at Gratiot,"McDougall at Gratiot, Detroit, MI",42.35713927,-83.02899902
-8, AVAS ACHIM [DELMAR],https://www.shtetlhood.com/Avas_Achim_1.htm,Avas Achim,9244 Delmar,"9244 Delmar, Detroit, MI",42.38793125,-83.07066366
-9,AVAS ACHIM 2,https://www.shtetlhood.com/Avas_Achim_star.htm,Avas Achim,Schaefer at 7 Mile Road,"Schaefer at 7 Mile Road, Detroit, MI",42.42983693,-83.27084887
-10, BETH AARON ,https://www.shtetlhood.com/Beth_Aaron-bush.htm,Beth Aaron,18000 Wyoming,"18000 Wyoming, Detroit, MI",42.42251089,-83.16062262
-11, BETH AARON V ISRAEL,https://www.shtetlhood.com/Beth_Aaron_Oakland.htm,Beth Aaron V Israel Congregation,9550 Oakland,"9550 Oakland, Detroit, MI",42.38912395,-83.07477424
-12, BETH ABRAHAM,https://www.shtetlhood.com/Beth_Abraham.htm,Beth Abraham,12517 Linwood,"12517 Linwood, Detroit, MI",42.38833088,-83.11887851
-13,BETH ABRAHAM 2,https://www.shtetlhood.com/Beth_Abraham2.htm,Beth Abraham,8100 West 7 Mile Road,"8100 West 7 Mile Road, Detroit, MI",42.43141555,-83.15195168
-14, B'NAI DAVID,https://www.shtetlhood.com/Beth_David.htm,B'nai David,2201 Elmhurst at 14th,"2201 Elmhurst at 14th, Detroit, MI",42.38649961,-83.11077443
-15, BETH EL [BONSTELLE],https://www.shtetlhood.com/beth_el_1.htm,Temple Beth El,"Woodward at Eliot
+,Type,Page_title,Page_link,Page_name,Page_address,Page_address_formatted,latitude,longitude
+1,,1ST DETROIT SERVICE,https://www.shtetlhood.com/1st_Jewish_Service.htm,1st Jewish Services in Detroit, St. Antoine at Congress,,42.33301994,-83.03926179
+2,shul,1ST HEBREW DELRAY,https://www.shtetlhood.com/Delray_Hungarian.htm,First Hebrew Congregation of Delray,8124 Burdeno,"8124 Burdeno, Detroit, MI",42.29249747,-83.11541184
+3,shul, AARON ISRAEL [STOLINER],https://www.shtetlhood.com/Aaron_Israel.htm,Aaron Israel,2567 Elmhurst,"2567 Elmhurst, Detroit, MI",42.38474337,-83.11547837
+4,shul, ADAS YESHURN [TYLER] ,https://www.shtetlhood.com/Adas_Yeshuan.htm,Memories of Adas Yeshuan,2625 Tyler,"2625 Tyler, Detroit, MI",42.39136602,-83.1214533
+5,shul, ADAT SHALOM,https://www.shtetlhood.com/Adat_Shalom_star.htm,Adat Shalom,Curtis just west of Livernois,"Curtis just west of Livernois, Detroit, MI",42.42426007,-83.14316196
+6,shul, AHAVATH ZION,https://www.shtetlhood.com/Ahavath_Zion.htm,Ahavath Zion,Holbrook at Brush,"Holbrook at Brush, Detroit, MI",42.38302716,-83.07502803
+7,shul, AMARATH TEMPLE,https://www.shtetlhood.com/Amarath_Temple.htm,Amarath Temple,McDougall at Gratiot,"McDougall at Gratiot, Detroit, MI",42.35713927,-83.02899902
+8,shul, AVAS ACHIM [DELMAR],https://www.shtetlhood.com/Avas_Achim_1.htm,Avas Achim,9244 Delmar,"9244 Delmar, Detroit, MI",42.38793125,-83.07066366
+9,shul,AVAS ACHIM 2,https://www.shtetlhood.com/Avas_Achim_star.htm,Avas Achim,Schaefer at 7 Mile Road,"Schaefer at 7 Mile Road, Detroit, MI",42.42983693,-83.27084887
+10,shul, BETH AARON ,https://www.shtetlhood.com/Beth_Aaron-bush.htm,Beth Aaron,18000 Wyoming,"18000 Wyoming, Detroit, MI",42.42251089,-83.16062262
+11,shul, BETH AARON V ISRAEL,https://www.shtetlhood.com/Beth_Aaron_Oakland.htm,Beth Aaron V Israel Congregation,9550 Oakland,"9550 Oakland, Detroit, MI",42.38912395,-83.07477424
+12,shul, BETH ABRAHAM,https://www.shtetlhood.com/Beth_Abraham.htm,Beth Abraham,12517 Linwood,"12517 Linwood, Detroit, MI",42.38833088,-83.11887851
+13,shul,BETH ABRAHAM 2,https://www.shtetlhood.com/Beth_Abraham2.htm,Beth Abraham,8100 West 7 Mile Road,"8100 West 7 Mile Road, Detroit, MI",42.43141555,-83.15195168
+14,shul, B'NAI DAVID,https://www.shtetlhood.com/Beth_David.htm,B'nai David,2201 Elmhurst at 14th,"2201 Elmhurst at 14th, Detroit, MI",42.38649961,-83.11077443
+15,shul, BETH EL [BONSTELLE],https://www.shtetlhood.com/beth_el_1.htm,Temple Beth El,"Woodward at Eliot
 ","Woodward at Eliot
 , Detroit, MI",42.34647451,-83.05726686
-16, BETH EL,https://www.shtetlhood.com/Beth_El_detl.htm,Temple Beth El,8801 Woodward,"8801 Woodward, Detroit, MI",42.38042324,-83.08013831
-17, BETH EMMANUEL [TAYLOR],https://www.shtetlhood.com/beth_emmanuel_det.htm,Beth Emmanuel,1550 Taylor at Woodrow Wilson,"1550 Taylor at Woodrow Wilson, Detroit, MI",42.3769566,-83.09520845
-18, BETH ITZCHOCK,https://www.shtetlhood.com/Beth_Itzchock.htm,Beth Itzchock,3836 Fischer,"3836 Fischer, Detroit, MI",42.37068523,-83.00000504
-19, BETH MOSES,https://www.shtetlhood.com/Beth_Moses.htm,Beth Moses,13925 Linwood at Oakman Ct.,"13925 Linwood at Oakman Ct., Detroit, MI",42.3961686,-83.12415149
-20,BETH MOSES 2,https://www.shtetlhood.com/BethMoses2.htm,Beth Moses,Evergreen just north of 7 Mile,"Evergreen just north of 7 Mile, Detroit, MI",42.36606867,-83.12906582
-21, BETH MOSES [OWEN],https://www.shtetlhood.com/Beth_Moses_Owen_shul.htm,Beth Moses,546 Owen,"546 Owen, Detroit, MI",42.38517705,-83.07518216
-22, B'NAI MOSHE,https://www.shtetlhood.com/Bnai_Moshe.htm,B'nai Moshe,11359 Dexter,"11359 Dexter, Detroit, MI",42.37740244,-83.12256027
-23, BETH SCHMUEL,https://www.shtetlhood.com/Beth_Schmuel_full.htm,Beth Schmuel,12837 Dexter,"12837 Dexter, Detroit, MI",42.38701383,-83.12904184
-24,BETH TICHVAH [PETOSKEY] ,https://www.shtetlhood.com/Beth_Tichvah.htm,Beth Tichvah,9736 Petoskey,"9736 Petoskey, Detroit, MI",42.37222332,-83.12460448
-25, BETH YEHUDA,https://www.shtetlhood.com/Beth_Yehuda.htm,Beth Yehuda,1600 Pingree at Woodrow Wilson,"1600 Pingree at Woodrow Wilson, Detroit, MI",42.37293881,-83.09381462
-26, B'NAI ISRAEL,https://www.shtetlhood.com/bnai_israel1_comm.htm,B'nai Israel,Ferry at Beaubien,"Ferry at Beaubien, Detroit, MI",42.36376553,-83.05988944
-27,B'NAI ISRAEL 2,https://www.shtetlhood.com/bnai_israel_detail.htm,B'nai Israel,12650 Linwood,"12650 Linwood, Detroit, MI",42.38900723,-83.11931923
-28, B'NAI JACOB,https://www.shtetlhood.com/Bnai_Jacob_King.htm,B'nai Jacob,944 King,"944 King, Detroit, MI",42.38392399,-83.07056126
-29, B'NAI JACOB,https://www.shtetlhood.com/bnai_jacob.htm,B'nai Jacob,12157 Linwood,"12157 Linwood, Detroit, MI",42.38588752,-83.11721097
-30, B'NAI ZION [HUMPHREY],https://www.shtetlhood.com/Bnai_Zion.htm,B'nai Zion,3841 Humphrey at Holmur,"3841 Humphrey at Holmur, Detroit, MI",42.37782783,-83.1244074
-31, DOWNTOWN SYNAGOGUE,https://www.shtetlhood.com/Downtown_Synagogue.htm,Downtown Synagogue,1457 Griswold,"1457 Griswold, Detroit, MI",42.33422801,-83.04992551
-32, EL MOSHE,https://www.shtetlhood.com/El_Moshe.htm,El Moshe,29th at Michigan,"29th at Michigan, Detroit, MI",42.33165453,-83.04744022
-33, EZRAS ACHIM TUROVER,https://www.shtetlhood.com/Ezras_Achim.htm,Ezras Achim Turover,12129 Dexter,"12129 Dexter, Detroit, MI",42.38204584,-83.12569988
-34, HERES ISRAEL,https://www.shtetlhood.com/Heres_Israel.htm,Heres Israel,9231 Cameron,"9231 Cameron, Detroit, MI",42.38752437,-83.07150078
-35, MISHKAN YISROEL,https://www.shtetlhood.com/Miskin_Israel.htm,Mishkan Yisroel,2625 Blaine at Linwood,"2625 Blaine at Linwood, Detroit, MI",42.36920737,-83.10646538
-36, NUSACH HARI,https://www.shtetlhood.com/nusach_hair_corner.htm,Nusach Hari,Holmur between Monterey and Duane,"Holmur between Monterey and Duane, Detroit, MI",42.3809208,-83.1280276
-37, SHAAREY SHOMAYIM [FENKELL],https://www.shtetlhood.com/Shaary_Shomaim.htm,Shaarey Shomayim,Muirland at Midland,"Muirland at Midland, Detroit, MI",42.40643113,-83.13350001
-38, SHAAREY TORAH,https://www.shtetlhood.com/shaarey_torah.htm,Shaarey Torah,17750 Brush,"17750 Brush, Detroit, MI",42.42347008,-83.09759517
-39, SHAAREY ZEDEK,https://www.shtetlhood.com/Shaarey_Zedek.htm,Shaarey Zedek,2900 Chicago,"2900 Chicago, Detroit, MI",42.37601978,-83.11426414
-40, SHAAREY ZION [PIGGLY WIGGLY],https://www.shtetlhood.com/Shaarey_Zion_detail.htm,Shaarey Zion,12353 Linwood,"12353 Linwood, Detroit, MI",42.38707345,-83.11803044
-41, TEMPLE ISRAEL,https://www.shtetlhood.com/Temple_Israel.htm,Temple Israel,17400 Manderson,"17400 Manderson, Detroit, MI",42.41862176,-83.1155997
-42,BETH  DAVID CEMETERY,https://www.shtetlhood.com/Beth_David_Cemetery.htm,Beth David Cemetery,9535 Van Dyke at St. Cyril,"9535 Van Dyke at St. Cyril, Detroit, MI",42.39927113,-83.02294089
-43,BETH EL ELMWOOD CEMETERY,https://www.shtetlhood.com/Elmwood_Cemetery.htm,Elmwood Jewish Cemetery,"1200 Elmwood St, Detroit, MI 48207","1200 Elmwood St, Detroit, MI 48207, Detroit, MI",42.34657639,-83.01543157
-44,BETH OLEM CEMETERY,https://www.shtetlhood.com/Beth_Olem.htm,Beth Olem Cemetery,"Located on grounds of GM Detroit Assembly
+16,shul, BETH EL,https://www.shtetlhood.com/Beth_El_detl.htm,Temple Beth El,8801 Woodward,"8801 Woodward, Detroit, MI",42.38042324,-83.08013831
+17,shul, BETH EMMANUEL [TAYLOR],https://www.shtetlhood.com/beth_emmanuel_det.htm,Beth Emmanuel,1550 Taylor at Woodrow Wilson,"1550 Taylor at Woodrow Wilson, Detroit, MI",42.3769566,-83.09520845
+18,shul, BETH ITZCHOCK,https://www.shtetlhood.com/Beth_Itzchock.htm,Beth Itzchock,3836 Fischer,"3836 Fischer, Detroit, MI",42.37068523,-83.00000504
+19,shul, BETH MOSES,https://www.shtetlhood.com/Beth_Moses.htm,Beth Moses,13925 Linwood at Oakman Ct.,"13925 Linwood at Oakman Ct., Detroit, MI",42.3961686,-83.12415149
+20,shul,BETH MOSES 2,https://www.shtetlhood.com/BethMoses2.htm,Beth Moses,Evergreen just north of 7 Mile,"Evergreen just north of 7 Mile, Detroit, MI",42.36606867,-83.12906582
+21,shul, BETH MOSES [OWEN],https://www.shtetlhood.com/Beth_Moses_Owen_shul.htm,Beth Moses,546 Owen,"546 Owen, Detroit, MI",42.38517705,-83.07518216
+22,shul, B'NAI MOSHE,https://www.shtetlhood.com/Bnai_Moshe.htm,B'nai Moshe,11359 Dexter,"11359 Dexter, Detroit, MI",42.37740244,-83.12256027
+23,shul, BETH SCHMUEL,https://www.shtetlhood.com/Beth_Schmuel_full.htm,Beth Schmuel,12837 Dexter,"12837 Dexter, Detroit, MI",42.38701383,-83.12904184
+24,shul,BETH TICHVAH [PETOSKEY] ,https://www.shtetlhood.com/Beth_Tichvah.htm,Beth Tichvah,9736 Petoskey,"9736 Petoskey, Detroit, MI",42.37222332,-83.12460448
+25,shul, BETH YEHUDA,https://www.shtetlhood.com/Beth_Yehuda.htm,Beth Yehuda,1600 Pingree at Woodrow Wilson,"1600 Pingree at Woodrow Wilson, Detroit, MI",42.37293881,-83.09381462
+26,shul, B'NAI ISRAEL,https://www.shtetlhood.com/bnai_israel1_comm.htm,B'nai Israel,Ferry at Beaubien,"Ferry at Beaubien, Detroit, MI",42.36376553,-83.05988944
+27,shul,B'NAI ISRAEL 2,https://www.shtetlhood.com/bnai_israel_detail.htm,B'nai Israel,12650 Linwood,"12650 Linwood, Detroit, MI",42.38900723,-83.11931923
+28,shul, B'NAI JACOB,https://www.shtetlhood.com/Bnai_Jacob_King.htm,B'nai Jacob,944 King,"944 King, Detroit, MI",42.38392399,-83.07056126
+29,shul, B'NAI JACOB,https://www.shtetlhood.com/bnai_jacob.htm,B'nai Jacob,12157 Linwood,"12157 Linwood, Detroit, MI",42.38588752,-83.11721097
+30,shul, B'NAI ZION [HUMPHREY],https://www.shtetlhood.com/Bnai_Zion.htm,B'nai Zion,3841 Humphrey at Holmur,"3841 Humphrey at Holmur, Detroit, MI",42.37782783,-83.1244074
+31,shul, DOWNTOWN SYNAGOGUE,https://www.shtetlhood.com/Downtown_Synagogue.htm,Downtown Synagogue,1457 Griswold,"1457 Griswold, Detroit, MI",42.33422801,-83.04992551
+32,shul, EL MOSHE,https://www.shtetlhood.com/El_Moshe.htm,El Moshe,29th at Michigan,"29th at Michigan, Detroit, MI",42.33165453,-83.04744022
+33,shul, EZRAS ACHIM TUROVER,https://www.shtetlhood.com/Ezras_Achim.htm,Ezras Achim Turover,12129 Dexter,"12129 Dexter, Detroit, MI",42.38204584,-83.12569988
+34,shul, HERES ISRAEL,https://www.shtetlhood.com/Heres_Israel.htm,Heres Israel,9231 Cameron,"9231 Cameron, Detroit, MI",42.38752437,-83.07150078
+35,shul, MISHKAN YISROEL,https://www.shtetlhood.com/Miskin_Israel.htm,Mishkan Yisroel,2625 Blaine at Linwood,"2625 Blaine at Linwood, Detroit, MI",42.36920737,-83.10646538
+36,shul, NUSACH HARI,https://www.shtetlhood.com/nusach_hair_corner.htm,Nusach Hari,Holmur between Monterey and Duane,"Holmur between Monterey and Duane, Detroit, MI",42.3809208,-83.1280276
+37,shul, SHAAREY SHOMAYIM [FENKELL],https://www.shtetlhood.com/Shaary_Shomaim.htm,Shaarey Shomayim,Muirland at Midland,"Muirland at Midland, Detroit, MI",42.40643113,-83.13350001
+38,shul, SHAAREY TORAH,https://www.shtetlhood.com/shaarey_torah.htm,Shaarey Torah,17750 Brush,"17750 Brush, Detroit, MI",42.42347008,-83.09759517
+39,shul, SHAAREY ZEDEK,https://www.shtetlhood.com/Shaarey_Zedek.htm,Shaarey Zedek,2900 Chicago,"2900 Chicago, Detroit, MI",42.37601978,-83.11426414
+40,shul, SHAAREY ZION [PIGGLY WIGGLY],https://www.shtetlhood.com/Shaarey_Zion_detail.htm,Shaarey Zion,12353 Linwood,"12353 Linwood, Detroit, MI",42.38707345,-83.11803044
+41,shul, TEMPLE ISRAEL,https://www.shtetlhood.com/Temple_Israel.htm,Temple Israel,17400 Manderson,"17400 Manderson, Detroit, MI",42.41862176,-83.1155997
+42,institution,BETH  DAVID CEMETERY,https://www.shtetlhood.com/Beth_David_Cemetery.htm,Beth David Cemetery,9535 Van Dyke at St. Cyril,"9535 Van Dyke at St. Cyril, Detroit, MI",42.39927113,-83.02294089
+43,institution,BETH EL ELMWOOD CEMETERY,https://www.shtetlhood.com/Elmwood_Cemetery.htm,Elmwood Jewish Cemetery,"1200 Elmwood St, Detroit, MI 48207","1200 Elmwood St, Detroit, MI 48207, Detroit, MI",42.34657639,-83.01543157
+44,institution,BETH OLEM CEMETERY,https://www.shtetlhood.com/Beth_Olem.htm,Beth Olem Cemetery,"Located on grounds of GM Detroit Assembly
                           Plant aka the Poletown Plant ",,42.38227917,-83.05151405
-45,BUTZEL BUILDING,https://www.shtetlhood.com/Butzel-DAC.htm,Frederick M. Butzel Memorial Building,163 Madison St.,"163 Madison St., Detroit, MI",42.33718289,-83.04843093
-46,FREE BURIAL ASSN,https://www.shtetlhood.com/Free_Burial.htm,Detroit Jewish Free Burial Association,2995 Joy at Lawton,"2995 Joy at Lawton, Detroit, MI",42.37186372,-83.11258642
-47, JCC MEYERS,https://www.shtetlhood.com/jcc_meyers.htm,Jewish Community Center,Meyers at Curtis,"Meyers at Curtis, Detroit, MI",42.42398999,-83.17043473
-48, JCC WOODWARD,https://www.shtetlhood.com/jcc-considine.htm,Jewish Community Center,Woodward at Holbrook,"Woodward at Holbrook, Detroit, MI",42.38110986,-83.08059025
-49,JEWISH WELFARE FED,https://www.shtetlhood.com/Jewish_Welfare_Warren.htm,Jewish Welfare Federation & Jewish Community Council,51 West Warren,"51 West Warren, Detroit, MI",42.3566549,-83.06473818
-50, MANUEL URBACH,https://www.shtetlhood.com/Urbach_mem.htm,Manuel Urbach & Son's Monuments,7729 Rosa Parks (12th),"7729 Rosa Parks (12th), Detroit, MI",42.36704975,-83.09313398
-51,SHAAREY ZEDEK SCHOOL,https://www.shtetlhood.com/Shaarey_Zedek_School.htm,Shaarey Zedek Hebrew School,Lawton at Chicago ,"Lawton at Chicago , Detroit, MI",42.37623394,-83.11421899
-52, SINAI HOSPITAL,https://www.shtetlhood.com/sinai.htm,Sinai Hospital,Outer Drive between Greenfield and Shaefer  ,"Outer Drive between Greenfield and Shaefer  , Detroit, MI",42.42024979,-83.1834268
-53, THE SCHVITZ,https://www.shtetlhood.com/schvitz.htm,The Schvitz,Oakland,"Oakland, Detroit, MI",42.37944726,-83.06849812
-54, TUSHIYAH UHS,https://www.shtetlhood.com/Tushiyah.htm,Tushiyah United Hebrew School,609 E. Kirby,"609 E. Kirby, Detroit, MI",42.3631186,-83.05855498
-55,UHS DELMAR ,https://www.shtetlhood.com/UHS_Delmar.htm,United Hebrew School,9243 Delmar,"9243 Delmar, Detroit, MI",42.3879173,-83.07067099
-56, YESHIVA BETH YEHUDA & MOGEN AVROM,https://www.shtetlhood.com/ush_dexter.htm,Yeshiva Beth Yehuda & Mogen Avrom,Dexter between Cortland and Sturtevant,"Dexter between Cortland and Sturtevant, Detroit, MI",42.38372355,-83.1270736
+45,institution,BUTZEL BUILDING,https://www.shtetlhood.com/Butzel-DAC.htm,Frederick M. Butzel Memorial Building,163 Madison St.,"163 Madison St., Detroit, MI",42.33718289,-83.04843093
+46,institution,FREE BURIAL ASSN,https://www.shtetlhood.com/Free_Burial.htm,Detroit Jewish Free Burial Association,2995 Joy at Lawton,"2995 Joy at Lawton, Detroit, MI",42.37186372,-83.11258642
+47,institution, JCC MEYERS,https://www.shtetlhood.com/jcc_meyers.htm,Jewish Community Center,Meyers at Curtis,"Meyers at Curtis, Detroit, MI",42.42398999,-83.17043473
+48,institution, JCC WOODWARD,https://www.shtetlhood.com/jcc-considine.htm,Jewish Community Center,Woodward at Holbrook,"Woodward at Holbrook, Detroit, MI",42.38110986,-83.08059025
+49,institution,JEWISH WELFARE FED,https://www.shtetlhood.com/Jewish_Welfare_Warren.htm,Jewish Welfare Federation & Jewish Community Council,51 West Warren,"51 West Warren, Detroit, MI",42.3566549,-83.06473818
+50,institution, MANUEL URBACH,https://www.shtetlhood.com/Urbach_mem.htm,Manuel Urbach & Son's Monuments,7729 Rosa Parks (12th),"7729 Rosa Parks (12th), Detroit, MI",42.36704975,-83.09313398
+51,institution,SHAAREY ZEDEK SCHOOL,https://www.shtetlhood.com/Shaarey_Zedek_School.htm,Shaarey Zedek Hebrew School,Lawton at Chicago ,"Lawton at Chicago , Detroit, MI",42.37623394,-83.11421899
+52,institution, SINAI HOSPITAL,https://www.shtetlhood.com/sinai.htm,Sinai Hospital,Outer Drive between Greenfield and Shaefer  ,"Outer Drive between Greenfield and Shaefer  , Detroit, MI",42.42024979,-83.1834268
+53,institution, THE SCHVITZ,https://www.shtetlhood.com/schvitz.htm,The Schvitz,Oakland,"Oakland, Detroit, MI",42.37944726,-83.06849812
+54,institution, TUSHIYAH UHS,https://www.shtetlhood.com/Tushiyah.htm,Tushiyah United Hebrew School,609 E. Kirby,"609 E. Kirby, Detroit, MI",42.3631186,-83.05855498
+55,institution,UHS DELMAR ,https://www.shtetlhood.com/UHS_Delmar.htm,United Hebrew School,9243 Delmar,"9243 Delmar, Detroit, MI",42.3879173,-83.07067099
+56,institution, YESHIVA BETH YEHUDA & MOGEN AVROM,https://www.shtetlhood.com/ush_dexter.htm,Yeshiva Beth Yehuda & Mogen Avrom,Dexter between Cortland and Sturtevant,"Dexter between Cortland and Sturtevant, Detroit, MI",42.38372355,-83.1270736
