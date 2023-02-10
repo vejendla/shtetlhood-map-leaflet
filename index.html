@@ -51,10 +51,11 @@
 	//https://leafletjs.com/examples/layers-control/example.html
 	// this is broken but i don't feel like fixing it rn fix later
 
-	var shulGroup = [];
-	var institutionGroup = [];
+	var shulGroup = L.layerGroup();
+	var institutionGroup = L.layerGroup();
 
-	var shuls = L.layerGroup(shulGroup);
+
+	//var shuls = L.layerGroup(shulGroup);
 	var institutions = L.layerGroup(institutionGroup);
 
 	// read data from csv
@@ -74,37 +75,33 @@
 			//marker.addTo(map);
 
 			if(row.Type == "shul") {
-				shulGroup.push(marker);
+				let foo = marker.addTo(shulGroup);
 			} else {
-				institutionGroup.push(marker);
+				let foo = marker.addTo(institutionGroup);
 			}
 		}
 	});
 
+	const osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{
+		maxZoom: 19,
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+	});
 
 
 	console.log(shulGroup);
 
-
-
-	var overlayMaps = {
-		"Shuls": shuls,
-		"Institutions": institutions
-	};
-
-	//var map = L.map('map').setView([42.387, -83.109],11)
 	var map = L.map('map',{
 		center: [42.387, -83.109],
 		zoom: 11,
-		layers: [shuls, institutions]
-	})
+		layers: [osm, shulGroup, institutionGroup]
+	});
 
-	L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{
-		maxZoom: 19,
-		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-	}).addTo(map);
+	var overlayMaps = {
+		"Shuls": shulGroup,
+		"Institutions": institutionGroup
+	};
 
-	var layerControl = L.control.layers(overlayMaps).addTo(map);
+	var layerControl = L.control.layers(null, overlayMaps).addTo(map);
 
 </script>
 
