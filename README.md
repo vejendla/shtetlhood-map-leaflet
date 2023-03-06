@@ -6,11 +6,9 @@ This application displays the items from [this map](https://www.shtetlhood.com/m
 
 # Project Background
 
-In August 2019, I moved into my first adult apartment on Holbrook Avenue in Detroit's North End. I moved to Detroit to work for a startup as a part of Venture for America. I signed my lease to move into my apartment on a Thursday, because my first day of work was the following Monday and I had no roommate. The apartment was cheap enough for me to afford living alone. I signed it 30 minutes after viewing it, which is not something I recommend.
+I learned about Shtetlhood when I moved to Detroit in the fall of 2019. My first apartment was in Detroit's North End, which was a neighborhood that had many Jewish residents in the 1930s and 40s. Since then, the neighborhood demographics have changed and there are very few Jewish residents. As a result, many of the old synagogues and community centers have been repurposed, in many cases becoming churches. One such church (The Alpha and Omega Church, originally built as Congregation Ahavath Zion) was down the street from me. I started reseraching the history of the church, and found that website. 
 
-Down the street was a church that curiously had Hebrew letters on it and an inscription that read "Cong Ahavath Zion." The church, however, was called Alpha and the Omega. I Googled the congregation's name and stumbled upon [Shtetlhood](https://www.shtetlhood.com/map.htm), a website documenting the numerous former synagogues in Detroit. I went down a rabbit hole of reading about them all and the Jewish history in Detroit, which at the time I was living there was (and is) a majority Black city with almost no Jewish residents. Detroit's Jewish residents moved to the suburbs along with many of the white residents, leaving behind many places of worship that were used as churches by the city's remaining (mostly Black) residents. To learn more about the changing demographics of Detroit, I recommend The Origins of the Urban Crisis by Thomas J. Sugrue. Another book that looks good, but I haven't yet read, is Metropolitan Jews by Lila Corwin Berman.
-
-In January 2023, I wanted to learn more about data visualization, and Leaflet.js was a library that was frequently cited in job descriptions. Since I already had an interest in this website, I decided to remake the (static) website as an interactive Leaflet.js app.
+I wanted to improve upon the map, which wasn't interactive. Thus, this project was born.
 
 # Notes
 
