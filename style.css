@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  background-color: #850041;
+  color: #FFCC66;
+  font-family: "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  font-size: 16px;
+  line-height: 1.4;
+}
+.leaflet-container {
+  height: 400px;
+  width: 700px;
+  max-width: 100%;
+  max-height: 100%;
+}
+#map {
+  margin: auto;
+  background-color: #1D273A;
+}
+
+#center-div {
+  background-color: #1D273A;
+  width: 850px;
+  margin: auto;
+  margin-top: -22px;
+  padding-top: 15px;
+}
+
+.center {
+  margin: auto;
+}
+
+.body-width {
+  width: 600px;
+}

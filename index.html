@@ -11,42 +11,41 @@
   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
 
+	<link rel="stylesheet" href="style.css" />
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin=""/>
   <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
 
 	<style>
-		html, body {
-			height: 100%;
-			margin: 0;
-			background-color: #f8edba;
-			font-family: Arial, sans-serif;
-		}
-		.leaflet-container {
-			height: 400px;
-			width: 600px;
-			max-width: 100%;
-			max-height: 100%;
-		}
-		#map {
-			margin: auto;
-			background-color: #1D273A;
-		}
 
-		.center {
-			margin: auto;
-		}
-
-		.body-width {
-			width: 600px;
-		}
 	</style>
 
 
 </head>
 <body>
 
-<div class="center body-width"><h1> The Lost Synagogues of Detroit</h1></div>
-<div class="center body-width" id="map" style="height: 400px;"></div>
+<div id="center-div">
+	<div class="center body-width"><h1> The Lost Synagogues of Detroit</h1></div>
+	<div class="center body-width" id="map" style="height: 400px;"></div>
+	<div class="center body-width">
+		<p>
+			Welcome to the interactive map showcasing the rich history of Detroit's North End neighborhood! This application has been meticulously crafted to bring you a dynamic experience, displaying historical items from the area in an engaging and interactive format.
+<br /><br />
+Our project draws its data from a .csv file and utilizes the powerful Leaflet.js library to create an interactive map. We are proud to acknowledge our primary data source, Shtetlhood, which provided us with valuable insights into the historical Jewish presence in the neighborhood.
+<br /><br />
+The inspiration for this project arose when I, the creator, moved to Detroit's North End in the fall of 2019. Intrigued by the area's vibrant history, I discovered that the neighborhood once thrived with a significant Jewish community during the 1930s and 40s. Over the years, the demographics shifted, and today, only a few traces of this historical heritage remain. For instance, the Alpha and Omega Church, originally known as Congregation Ahavath Zion, stands as a testament to the transformation of these historical spaces.
+<br /><br />
+Driven by a passion for preserving and sharing this rich cultural heritage, I embarked on a journey to improve upon the existing static map of the neighborhood. The result is this dynamic and interactive web application, which allows you to explore the historical landmarks, synagogues, and community centers that once flourished here.
+<br /><br />
+As you delve into the map, you can navigate through the neighborhood's history, clicking on each item to reveal fascinating details and stories. We hope this interactive experience provides you with a deeper understanding of Detroit's North End and its vibrant past.
+<br /><br />
+We are grateful to Shtetlhood for being the foundation of this project and for enabling us to create an immersive journey into the past. Our team has put their heart and soul into crafting this interactive map, and we hope you enjoy exploring the history and legacy of the North End neighborhood through this unique digital experience.
+<br /><br />
+Join us on this enlightening adventure as we bring history to life, one click at a time. Let's celebrate the heritage of Detroit's North End together!
+<br /><br />
+		</p>
+	</div>
+</div>
+
 <script>
 	const shulGroup = L.layerGroup();
 	const institutionGroup = L.layerGroup();
